@@ -1,2 +1,4 @@
 # hello-word2
-just another repositiry
+
+hi ximen !
+how are you fine thanks
